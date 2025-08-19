@@ -1,0 +1,6 @@
+id,username,passwordHash,role,email,phone
+b98ad399-fc06-4569-861e-e4fddd83c7e7,admin,$2b$10$RDdAPmA7Q2s1jYMEARmv4.6aOh6rOPBM2wGCxOUA22wRF6pZE2MNK,Admin,admin@myprobuddy.com,+91 9876543210
+b75f98bd-f8a2-41b1-8bc5-16a59ad90595,Dinesh,$2b$10$Q.yvyfIpW38kDHPEXcFrf..WM.19015U0bSgWQqE4HrwcMzIPJEr6,Admin,dineshvenkatesan@myprobuddy.com,8637656625
+04ebc001-71ad-4c72-9fe1-9db9935177c0,Customer,$2b$10$RgfqrOL8HpukZBkmWqtVQ.7LGrN9.ungvSqb18j.PNzwb9tkTQ9S6,Customer success officer,customer@myprobuddy.com,7894561233
+2b509c39-c04e-4c50-8789-5bc44759f423,Manager,$2b$10$DOxJCoX9x9oUi/lfxHomSO5sZI.SqE3yMdd20uzbfZ5q.jml4tA3a,Manager,manager@myprobuddy.com,7894561236
+51045da3-536c-4367-bcf4-a1017e97dce0,operations,$2b$10$sqQqxzmy/8zeWwS1NzvPoe4PirEQXCLmK/6c4j5gAo8/03iJaPYW6,Operations,operations@myprobuddy.com,3216549879

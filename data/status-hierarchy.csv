@@ -1,0 +1,23 @@
+id,statusName,nextStatuses,daysLimit,autoMoveTo
+1,New Lead,RNR;Call Back;Not Interested;Interested,,
+2,RNR,Interested;Reject - RNR,6,Reject - RNR
+3,Call Back,Interested;Reject - Not Attend,6,Reject - Not Attend
+4,Not Interested,Reject - Not Interested,,
+5,Interested,Reject - Screening Fail;Screening Pass,,
+6,Screening Pass,Proposal to be Sent,,
+7,Proposal to be Sent,Proposal Sent,,
+8,Proposal Sent,Not Interested;Payment Link Sent,,
+9,Payment Link Sent,Not Paid;Paid,,
+10,Not Paid,Reject - Payment Not Done,,
+11,Paid,To Apply,,
+12,To Apply,Applied,,
+13,Applied,Rejected;Approved,,
+14,Rejected,Final Reject,,
+15,Approved,,,
+16,Reject - RNR,,,
+17,Reject - Not Attend,,,
+18,Reject - Not Interested,,,
+19,Reject - Screening Fail,,,
+20,Reject - Payment Not Done,,,
+21,Final Reject,,,
+22,Rules Reject,,,

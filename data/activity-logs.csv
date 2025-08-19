@@ -1,0 +1,441 @@
+id,timestamp,userId,action,entity,entityId,details
+c651d4cc-f33e-4fe2-ab02-225789456ba9,2025-08-19T20:21:19.107Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+90abee49-1bec-4706-a5b1-15ecf3cc41e8,2025-08-19T20:17:09.780Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+696c37da-ea48-41f2-acf6-c58dc25f9901,2025-08-19T20:10:38.208Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+47108b1f-3855-4d6b-9375-7baa9f3f9ba4,2025-08-19T20:06:35.158Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+3137b65f-4192-4815-a137-59dbd13b773b,2025-08-19T20:01:41.015Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+b37ddfdd-737b-4c81-a42a-6b87e77fbcb9,2025-08-19T19:57:15.700Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+6751b81f-2569-4b64-baa6-9e53fb65439e,2025-08-19T19:57:00.648Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+7da519f1-f89f-4555-bc57-adccaaa5bf0d,2025-08-19T19:45:25.126Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+aacb5746-bc58-4060-a333-121c51c90ab1,2025-08-19T19:39:06.993Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+e37d303f-e6c6-466d-af08-90ccd9f7f5be,2025-08-19T19:38:54.823Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+ecd1596f-a5ee-4d06-8a52-b99243b4443b,2025-08-19T19:38:31.448Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+6c5a34ee-8eed-4414-9735-a4bbccca1c7d,2025-08-19T19:38:14.726Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+93e73524-2435-4804-90e0-508d97f61519,2025-08-19T19:38:04.990Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+24c4c620-554d-4c4b-ad98-8d584a780b93,2025-08-19T19:30:05.915Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+c6a5ee2a-204b-4a67-943e-5b36cf0bbd33,2025-08-19T19:23:56.816Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+606947dc-56cd-4638-844c-cb6c128b7aab,2025-08-19T19:18:40.098Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+82a1f746-9659-4a21-bece-5aee3c310161,2025-08-19T19:14:40.301Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+0a701d20-41d0-4faa-8b5f-e9d9edcd4bef,2025-08-19T19:13:45.352Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+dce39763-b9d7-42e4-9f1d-3c1572c6e1ca,2025-08-19T19:13:32.983Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+0c6bf4a9-bbf5-4775-a26f-73f11aa54cfa,2025-08-19T19:11:49.875Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+cd245eee-39e1-417f-bbc6-3c49d883eeac,2025-08-19T19:11:37.856Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,logout,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User logged out
+dc741412-ca7b-4d42-98a0-55b3cb72cd83,2025-08-19T19:08:20.252Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+a092e06d-b58a-4f13-8ff0-d8dfda269b78,2025-08-19T18:57:26.182Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+b27e535b-5b5c-4863-ba81-be56a9a59aec,2025-08-19T18:54:12.380Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+8aef4b1f-6440-4fb8-aa4e-34007cb7769e,2025-08-19T18:49:15.129Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+2b28a9e0-e6fc-4deb-993d-e251f54b6370,2025-08-19T18:44:16.617Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+7c496896-b633-4373-9876-7b09fd5a600b,2025-08-19T18:40:59.203Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+7c6d5523-6f25-4173-8ab2-f5c941e920ef,2025-08-19T18:35:30.295Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+d1e8c969-09bb-46f7-8530-8bd90413506e,2025-08-19T18:35:19.026Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+2b369ea6-3539-48a8-a3a2-4c907edf674c,2025-08-19T18:24:10.701Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+bc924862-297b-4306-96fe-17b5b217241b,2025-08-19T18:23:57.931Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,logout,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User logged out
+d5741018-f47a-4992-bd92-4756e8a81ee2,2025-08-19T18:23:13.627Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+da6a8ac1-0e35-4b8c-abc6-b9e6234a4d89,2025-08-19T18:17:59.388Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+c634f80d-b678-47e4-8f9f-13922637a287,2025-08-19T18:17:45.184Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+514be1c9-4c63-4912-a8d8-7782c500fabc,2025-08-19T18:16:55.824Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+e2a2b22c-1357-40e7-9b21-565684bf5c5d,2025-08-19T18:16:45.638Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+df842a2e-1a54-4676-b635-4e6c65950269,2025-08-19T18:08:52.423Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+27fc027b-3d2c-4d85-b8d5-01b34e80ba2b,2025-08-19T18:06:00.746Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+bf013284-4d3d-4cdf-b1bf-b3ca56054dd0,2025-08-19T18:05:50.334Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+abd76869-db1a-4af5-a4b6-51ec01bd559e,2025-08-19T18:05:33.233Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+3879a9b5-7323-4a42-ab68-2ba5ee64c863,2025-08-19T18:03:09.254Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+98cea392-af1d-4ca0-af04-55a6d1abb588,2025-08-19T17:55:48.727Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+ca982477-146c-4576-9301-986f9b50f085,2025-08-19T17:55:33.097Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,logout,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User logged out
+180c744a-0798-4341-b4d2-1de6029e8ce1,2025-08-19T17:54:58.680Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+00fe4c51-db2b-4e57-98c4-916e503ba997,2025-08-19T17:44:54.365Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+80085c1a-0f2e-4adb-afa6-94a53a48c2e6,2025-08-19T17:44:42.464Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+feab0b11-bef7-4bd0-bb62-a877cbf1aafc,2025-08-19T17:43:58.140Z,51045da3-536c-4367-bcf4-a1017e97dce0,update_questions,lead,8869ebbd-3f4c-44af-b01e-731b67b39531,Updated detailed questions for Example Corp14
+7f9e81c0-670c-466a-a38e-6dc34613e8f4,2025-08-19T17:43:47.029Z,51045da3-536c-4367-bcf4-a1017e97dce0,update_questions,lead,2519eaaa-c68b-485d-8e7f-775182a7402a,Updated detailed questions for Example Corp15 - Automatically moved to Rules Reject due to company age (4 years)
+d3bc5c38-9c11-4e26-9a36-587f59e21023,2025-08-19T17:43:13.500Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+676798c5-cfb7-4ce6-a370-521d6dfd51d4,2025-08-19T17:43:02.635Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+3ad2b601-81d4-4fae-9e6f-43915bb74f76,2025-08-19T17:35:49.381Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+2ab6cc4d-e0a0-415d-b1bd-62402c24ca94,2025-08-19T17:35:13.732Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+a6d3dd84-8f56-480e-a763-c043799568de,2025-08-19T17:32:25.541Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,b00c98d5-000f-4b05-86fe-9216653c7e22,"Changed status from ""Interested"" to ""Screening Pass"" for Example Corp6"
+56cb1045-c0ba-4747-a686-5a5d98db412f,2025-08-19T17:32:25.531Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,auto_assign,lead,b00c98d5-000f-4b05-86fe-9216653c7e22,Auto-assigned lead Example Corp6 to Manager Manager after status change to Screening Pass
+101fc821-e2ac-4b7e-a85d-fda8463af70b,2025-08-19T17:32:11.481Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,b00c98d5-000f-4b05-86fe-9216653c7e22,"Changed status from ""New Lead"" to ""Interested"" for Example Corp6"
+7ce40b33-3388-4040-992a-0dc432ac53f7,2025-08-19T17:31:56.032Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,50820189-ada3-44b3-81ef-9aa22ce7b0e3,Bulk created lead for Example Corp20
+5d546f96-e094-4c2a-bdbc-1e3b1dceff6d,2025-08-19T17:31:56.025Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,85d5ee9c-d229-43db-865b-fb42f0aa5ded,Bulk created lead for Example Corp19
+d5bc640e-ee5d-450d-9f34-24e8eb71ba2e,2025-08-19T17:31:56.016Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,9cc1b083-41a9-4a9e-aa60-862fb52996fb,Bulk created lead for Example Corp18
+f5ee3e66-a0fd-476c-a8ea-68999c1644ae,2025-08-19T17:31:56.007Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,1182b567-3d75-42be-a5be-778ef90b68d4,Bulk created lead for Example Corp17
+d5fae20a-7384-4b49-b541-d4531faeabd2,2025-08-19T17:31:55.997Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,37a913a3-b049-46cf-a5ea-93832e0f790e,Bulk created lead for Example Corp16
+54540d25-e014-4456-8266-bfd750316147,2025-08-19T17:31:55.989Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,2519eaaa-c68b-485d-8e7f-775182a7402a,Bulk created lead for Example Corp15
+8df9ff03-958d-40db-ba5a-83db802525e0,2025-08-19T17:31:55.978Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,8869ebbd-3f4c-44af-b01e-731b67b39531,Bulk created lead for Example Corp14
+a15080b2-d4f9-4187-b45a-327896de4620,2025-08-19T17:31:55.959Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,cfead1ad-33de-45a9-855b-92e4438c70a6,Bulk created lead for Example Corp13
+12eab386-cbe0-44d2-b8ef-d62b4f5c630d,2025-08-19T17:31:55.950Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,a41a44be-2e6a-4d2c-ad16-864cf5a4cdec,Bulk created lead for Example Corp12
+6193f599-56f6-46db-b659-4ddec7cea3a8,2025-08-19T17:31:55.930Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,476fe858-1099-425a-84bb-c4ee1ffe75c8,Bulk created lead for Example Corp11
+3a2d4eca-5e0e-4e37-bb4e-6e8e658fb58d,2025-08-19T17:31:55.908Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,1e030185-5bfa-4b72-9f56-5a34b31a6947,Bulk created lead for Example Corp10
+de8d958a-a056-4674-bf96-259a8bfce514,2025-08-19T17:31:55.888Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,62ef5b3e-ea28-4905-b4d9-f8ded84fa90e,Bulk created lead for Example Corp9
+85df4121-5dbf-4a7e-8aef-f3034950ea9f,2025-08-19T17:31:55.863Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,ebd18370-d11c-478d-a2f4-04e6cbbdf714,Bulk created lead for Example Corp8
+4088a9b4-eecc-469d-8dfb-8710c8efa619,2025-08-19T17:31:55.853Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,c0611d3d-a88b-4d38-a57b-22996ce48ad6,Bulk created lead for Example Corp7
+e7eb6503-912b-46b5-bfa2-1f9f60185ca2,2025-08-19T17:31:55.840Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,b00c98d5-000f-4b05-86fe-9216653c7e22,Bulk created lead for Example Corp6
+d48ea9a9-af9d-47f0-985a-0bb04819f2a4,2025-08-19T17:31:55.828Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,ef496ddb-607f-468c-97a9-533165282e78,Bulk created lead for Example Corp5
+182f61d8-bde6-4df5-8232-74ed400e593b,2025-08-19T17:31:55.812Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,1b60d9ec-720c-4398-936d-e755976533fd,Bulk created lead for Example Corp4
+590ec1b8-50d0-4dd9-af45-08506b8c5309,2025-08-19T17:31:55.773Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,dc6748e1-5f0d-4c13-a49a-522783bccf36,Bulk created lead for Example Corp3
+93c89dcf-27f4-4be1-9bbf-b8a46746cea9,2025-08-19T17:31:55.760Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,a6c5b20a-0383-45bf-9609-2d7b37f885ad,Bulk created lead for Example Corp2
+37fc9e2e-d624-4460-8b36-7924fccda40d,2025-08-19T17:31:55.741Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,53201c07-7484-4e95-8734-3ffebdebfdec,Bulk created lead for Example Corp1
+f9f35731-05f9-47a5-bd4b-4dffa6cd5fd8,2025-08-19T17:30:39.476Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,24f43783-35c4-416e-ac22-aa11b12d7878,Deleted lead for Example Corp6
+96c68546-d8a3-4202-b411-5b56b3cd9883,2025-08-19T17:30:37.528Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,525eb07e-e018-427f-bed1-89dc1fca8601,Deleted lead for Example Corp11
+7814cfb6-631f-405e-82c5-a6763a056b9f,2025-08-19T17:30:35.518Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,93fa4ec5-cfc6-4875-9288-3d30b781fe8c,Deleted lead for Example Corp20
+b5d2b199-d269-482a-9be8-83b22918563b,2025-08-19T17:30:10.028Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,93fa4ec5-cfc6-4875-9288-3d30b781fe8c,Bulk created lead for Example Corp20
+03bb95d5-a88a-4355-9eca-fe585244b21a,2025-08-19T17:30:10.015Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,525eb07e-e018-427f-bed1-89dc1fca8601,Bulk created lead for Example Corp11
+adb7fd02-0e21-4e89-9762-782f1da099d4,2025-08-19T17:30:10.004Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,24f43783-35c4-416e-ac22-aa11b12d7878,Bulk created lead for Example Corp6
+54c01c6c-00be-43d4-99e5-d7116de59eb7,2025-08-19T17:26:25.001Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,update,Partner,4ad98d4d-8eb2-4dde-9975-c8e45321d028,Updated Partner Gojay branding
+9dc54f75-06b0-4235-b6e0-18d4700b9e9f,2025-08-19T17:26:19.114Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,update,Partner,0e014047-a603-4d18-b1b1-17096c86bc39,Updated Partner Bizsimpl
+41d80a46-18f6-4be9-a003-78864030de76,2025-08-19T17:26:09.566Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,update,Partner,05fdbd5a-ad8e-4a5c-8ef6-15fc824028a9,Updated Partner Meriad Business Advisory
+5f292cac-aded-40a3-afdb-a4f44a313f26,2025-08-19T17:26:00.511Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,update,Partner,bdff619c-4960-43c6-9626-02e3c8510bef,Updated Partner Prudent Capital
+aa7e1381-b33b-4556-a883-8926c8b1bac8,2025-08-19T17:25:45.895Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,5dae7c73-981b-4539-af83-42289814ec67,Deleted lead for Example Corp11
+9e31757a-5db1-44e4-a5d2-d373e7c072b8,2025-08-19T17:25:43.994Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,75b8e979-019f-4103-8893-05296ca2cdaf,Deleted lead for Example Corp12
+042e6654-45d8-4323-8676-a1b4daad692b,2025-08-19T17:25:42.317Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,1775c412-6fd3-4621-996b-c5d8df43ecda,Deleted lead for Example Corp13
+5565086a-1c8c-4a64-ba68-f1170152f9fa,2025-08-19T17:25:40.548Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,c9e2b5a0-37bf-4978-9e82-4568e0729555,Deleted lead for Example Corp14
+8c175541-6f14-493d-86ca-860eefae2c77,2025-08-19T17:25:38.524Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,23aa42b1-3200-47ba-9cf7-09a1ff431024,Deleted lead for Example Corp15
+05bc9b6b-bf79-4af5-bbb8-3458b21b2d22,2025-08-19T17:25:36.604Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,28caa03d-a08f-4c65-bb26-af12d69ab67d,Deleted lead for Example Corp16
+6046265f-8efe-4f9d-9f5f-5afb0f076eb7,2025-08-19T17:25:34.761Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,1696fde1-f1c0-40e5-ae13-a2a307fd5242,Deleted lead for Example Corp17
+4792e9eb-5905-4fce-9166-5cc138e68bd9,2025-08-19T17:25:32.639Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,b8aced9b-2000-438f-bcc2-1706b4ff9c83,Deleted lead for Example Corp18
+4ab215b5-6583-4459-a0e3-6b927ea290d3,2025-08-19T17:25:29.969Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,2fcd61c5-0c44-41a1-85ce-b66de54b9448,Deleted lead for Example Corp19
+8578d303-ea97-41f8-8a98-4635bd7deee9,2025-08-19T17:25:24.292Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,beba8330-7f84-4a8b-9a48-a19d83e186d1,Deleted lead for Example Corp20
+6a1340d3-efb6-4a73-bc2f-2017c0720e8e,2025-08-19T17:25:08.940Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,Partner,0e014047-a603-4d18-b1b1-17096c86bc39,Created Partner Moideen
+c215a4fb-480c-43f4-9f26-019303b4630b,2025-08-19T17:24:17.621Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,Partner,4ad98d4d-8eb2-4dde-9975-c8e45321d028,Created Partner Gowtham
+78dd38a2-d702-4d07-b5a1-4f44b7fa2ade,2025-08-19T17:23:30.342Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,Partner,05fdbd5a-ad8e-4a5c-8ef6-15fc824028a9,Created Partner Ramesh Iyer
+f0b78494-abac-4fc2-bcaf-aa5ecb5a517f,2025-08-19T17:22:48.458Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,Partner,bdff619c-4960-43c6-9626-02e3c8510bef,Created Partner Jagadeesh
+c3a98037-a487-4a56-99a0-238a06cf531f,2025-08-19T17:20:23.007Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,Partner,6473783e-e329-425a-8212-0a850f66e8ed,Deleted Partner
+d19dce53-e4e9-49ea-b3e6-741cf8aaa556,2025-08-19T17:20:21.086Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,Partner,e48a6e9d-3d46-46bc-bb40-2a82b1371190,Deleted Partner
+0a453753-ceb4-49f4-aa52-d2ae4f9359ce,2025-08-19T17:20:18.559Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,Partner,06e014f2-55c3-4a3f-a35b-d7759c3f8c96,Deleted Partner
+ef5c05de-8cc2-4418-9e88-37743b7d92ee,2025-08-19T17:19:59.357Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,45338708-6b0d-4d79-a19d-518d95e0b024,Deleted lead for Example Corp1
+a1fc4690-b975-4ff3-9b4e-c9cdeb28e421,2025-08-19T17:19:57.132Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,c7e8bff9-1904-42b6-807a-b005ffa5e630,Deleted lead for Example Corp1
+4a7457d2-ca93-48ac-8ea3-13004f551b3e,2025-08-19T17:19:43.112Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,8efbd08f-d67b-495d-8dc4-b3a7a14a6b44,Deleted lead for Example Corp2
+483bc530-fcf3-4a69-861f-5e908731525f,2025-08-19T17:19:41.124Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,3beec3f9-6e06-4dbb-96bb-ae02fb533119,Deleted lead for Example Corp3
+f15657e8-2ec1-48b2-8abf-340cffb9143d,2025-08-19T17:19:39.157Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,2feff99b-6db2-4808-930e-d680ce1db55d,Deleted lead for Example Corp4
+053c980f-3535-4491-aa84-c0fdb12adc08,2025-08-19T17:18:10.053Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,43ecddcf-62f0-4bba-9831-724e180e0326,Deleted lead for Example Corp5
+911d2145-6ed6-454a-8358-72c67b908606,2025-08-19T17:18:08.284Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,ddad9b88-82eb-4518-b1be-24fece89630a,Deleted lead for Example Corp6
+f2737a5d-b436-4f65-9863-53d72ad483d8,2025-08-19T17:18:06.627Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,5a1a6001-6381-47f4-b856-fa56e12543a9,Deleted lead for Example Corp7
+a8fc5d79-f7fa-4e9b-9134-95d516e6c616,2025-08-19T17:18:05.110Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,18c193f7-305c-4440-8d41-0496f0a52f8c,Deleted lead for Example Corp8
+d881b039-f796-4b9e-ad1a-a952c3c0da60,2025-08-19T17:18:03.290Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,21c15391-4279-4e7f-8ebc-f46bade4f50b,Deleted lead for Example Corp9
+cd099e14-0ee8-4f9e-8761-57a2547d4b64,2025-08-19T17:18:01.293Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,66e41480-72b7-48d2-a776-2487da17fcf6,Deleted lead for Example Corp10
+10a910d4-3366-4a62-897c-8b87cdcd9ddf,2025-08-19T17:17:48.293Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,dae5eec4-8f12-405a-894f-13dc834b81e9,Deleted lead for Example Corp2
+62fd3f8f-2f58-491d-ac90-ff9c6ba716e7,2025-08-19T17:17:45.852Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,a1f551a8-36e1-4809-93b0-1078b740aa04,Deleted lead for Example Corp3
+6ba3127e-0bda-41f0-937a-d257d1021509,2025-08-19T17:17:42.950Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,7d1af9bb-09f1-4ee1-9086-ddf880581032,Deleted lead for Example Corp4
+c6e6e3f0-fb55-4c87-99bb-63ccff985fbe,2025-08-19T17:17:40.152Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,5419d22e-c0e0-442a-b8b1-c7529416e8c8,Deleted lead for Example Corp5
+a168a221-13c5-4907-bc3b-3b59f9a4d952,2025-08-19T17:17:37.744Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,63878031-3f46-4038-8066-a6be4c947416,Deleted lead for Example Corp6
+fa1b3593-dbfd-429d-aea9-c5ebdd7d493a,2025-08-19T17:17:35.614Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,e577e4aa-80de-4c55-be42-b0222edd9b4e,Deleted lead for Example Corp7
+9591e7f6-3039-480c-bacb-f2412f95890f,2025-08-19T17:17:33.667Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,c7afc998-6375-4ebc-a1f7-75410d6cbe88,Deleted lead for Example Corp8
+34c7efd4-cf35-46ee-bdec-5df932509673,2025-08-19T17:17:31.553Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,3b341809-b1a7-4c35-8247-c9812cc95d0b,Deleted lead for Example Corp9
+07728005-cf10-4531-a868-3d8ca7eb1d2e,2025-08-19T17:17:29.306Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,4841df43-8043-4185-98c7-5bbd8a36a193,Deleted lead for Example Corp10
+7062269b-2b28-444f-8c9c-e2a78b07b0ba,2025-08-19T17:17:27.361Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,506229ff-fd58-4e48-8ef1-02bc4da86b6a,Deleted lead for Example Corp11
+c58ef1ee-bf14-419c-a6da-69133c1f4a3b,2025-08-19T17:17:25.432Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,5838a802-8f0d-4ae9-9e7f-45f96dd19286,Deleted lead for Example Corp12
+1808ec75-2ec6-4def-a098-a15e99dcaf8f,2025-08-19T17:16:58.976Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,42e419c9-4393-4f65-8de3-af9c010244a9,Deleted lead for Example Corp13
+16a5ff1f-1284-4dc4-bf0d-29dad5ecba99,2025-08-19T17:16:57.001Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,25ccd929-d035-460f-8f8e-f079d1f6a536,Deleted lead for Example Corp14
+a6bec645-6406-4b92-91fc-858a4bbf25a5,2025-08-19T17:16:54.969Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,406e820d-a3f4-48b5-8da8-b579c619eecf,Deleted lead for Example Corp15
+dd2ab132-bcf4-42ba-a551-0dcc8ab93395,2025-08-19T17:16:53.143Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,6aa70ea1-9d89-4bda-90d6-90a5da1e9b16,Deleted lead for Example Corp16
+842719c2-6ce7-46ea-bd63-1fe8006965f5,2025-08-19T17:16:49.763Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,fa1490bc-55d9-43e0-b39d-5f076bd5c59e,Deleted lead for Example Corp17
+f56e40af-4562-4a17-bfad-a88f0117f9e8,2025-08-19T17:16:29.208Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+a4e93f50-49bb-45d3-b4f6-81aabf8b810f,2025-08-19T17:16:16.829Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+b669c952-7462-4417-9815-d6c8f985c594,2025-08-19T17:16:10.266Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+addc36f9-4359-45cc-842b-6df0bb7e0adc,2025-08-19T17:00:30.755Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+c0ca6a86-c7e8-41f3-a07c-f7a50d7769bf,2025-08-19T17:00:15.049Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+ed754dcf-5483-43c3-b434-e41023b1328e,2025-08-19T16:59:42.207Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+563f9b01-bd0c-4a66-8ec8-6af2117db4c8,2025-08-19T16:59:04.763Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+7400a298-806f-4182-822f-f5c271616b82,2025-08-19T16:58:56.328Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+4ed1aa76-13a8-44d5-9ae3-cbdd9d927da2,2025-08-19T16:52:56.317Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+e5ad5b14-fd7e-4d5d-9994-0aa2dcb11400,2025-08-19T16:52:45.751Z,2b509c39-c04e-4c50-8789-5bc44759f423,logout,user,2b509c39-c04e-4c50-8789-5bc44759f423,User logged out
+28a580cc-2575-4813-80d0-ad384c5b86a2,2025-08-19T16:51:49.198Z,2b509c39-c04e-4c50-8789-5bc44759f423,login,user,2b509c39-c04e-4c50-8789-5bc44759f423,User Manager logged in
+b3871cb6-08ee-417a-9cc9-2064b02500b6,2025-08-19T16:51:35.514Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+a509deae-27fc-4085-b746-ffae13e4dddf,2025-08-19T16:51:29.790Z,51045da3-536c-4367-bcf4-a1017e97dce0,status_change,lead,28caa03d-a08f-4c65-bb26-af12d69ab67d,"Changed status from ""Interested"" to ""Screening Pass"" for Example Corp16"
+798d5d92-9cf6-4b1f-856d-d8cefba50f3c,2025-08-19T16:51:29.778Z,51045da3-536c-4367-bcf4-a1017e97dce0,auto_assign,lead,28caa03d-a08f-4c65-bb26-af12d69ab67d,Auto-assigned lead Example Corp16 to Manager Manager after status change to Screening Pass
+060338bd-c877-4f61-84ce-27e1882b8a3e,2025-08-19T16:51:26.941Z,51045da3-536c-4367-bcf4-a1017e97dce0,status_change,lead,28caa03d-a08f-4c65-bb26-af12d69ab67d,"Changed status from ""New Lead"" to ""Interested"" for Example Corp16"
+aaa5f37b-9410-4737-844d-4fb58d73ddca,2025-08-19T16:51:20.005Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+b09c0e13-bf01-4302-aefe-8a059f0969f3,2025-08-19T16:51:09.378Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,logout,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User logged out
+e0cb2dce-b90b-4dfd-a9a6-eb9c0a842d41,2025-08-19T16:50:55.795Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+3de8fe9d-9f2f-49e9-9434-3779e89a25ad,2025-08-19T16:46:33.407Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User operations logged in
+b09ee15c-5f09-401e-b17a-57f54d9c3a88,2025-08-19T16:41:26.298Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User Operations logged in
+d538bce6-258d-47d4-a958-8f2b74265a0d,2025-08-19T15:57:29.479Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User Operations logged in
+30d9b6a9-69b1-4e65-8981-256e03179db7,2025-08-19T15:52:40.001Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User Operations logged in
+6dddcbb5-501b-46ba-a88a-0a5236c957b8,2025-08-19T15:50:14.528Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+839ce196-800a-47c7-924a-1eacde4bb282,2025-08-19T15:49:59.977Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
+fc35b0c0-597f-4a3e-9f6c-b1003cad8ae6,2025-08-19T15:49:15.572Z,51045da3-536c-4367-bcf4-a1017e97dce0,login,user,51045da3-536c-4367-bcf4-a1017e97dce0,User Operations logged in
+6a1f3735-f6df-4c57-be65-8e55c4541785,2025-08-19T15:49:00.961Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,logout,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User logged out
+97cf1e76-7f69-40cf-8920-e676b69c0a93,2025-08-19T15:47:35.293Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,1696fde1-f1c0-40e5-ae13-a2a307fd5242,"Changed status from ""Interested"" to ""Screening Pass"" for Example Corp17"
+101cab17-87aa-4b6b-835d-f40d4f780ed9,2025-08-19T15:47:29.290Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,1696fde1-f1c0-40e5-ae13-a2a307fd5242,"Changed status from ""New Lead"" to ""Interested"" for Example Corp17"
+ce448e61-9845-451d-b063-334ab66e5a01,2025-08-19T15:46:53.121Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,beba8330-7f84-4a8b-9a48-a19d83e186d1,Bulk created lead for Example Corp20
+c8b170f1-22c0-433e-9bf7-027717235e59,2025-08-19T15:46:53.106Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,2fcd61c5-0c44-41a1-85ce-b66de54b9448,Bulk created lead for Example Corp19
+2b1e482f-f4d0-4eb7-9e21-f7b7ed941336,2025-08-19T15:46:53.091Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,b8aced9b-2000-438f-bcc2-1706b4ff9c83,Bulk created lead for Example Corp18
+a21718ce-a3c3-4166-9aae-c1f7dd1bf032,2025-08-19T15:46:53.084Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,1696fde1-f1c0-40e5-ae13-a2a307fd5242,Bulk created lead for Example Corp17
+4115f5a4-f348-492c-998c-3f1a165d1247,2025-08-19T15:46:53.076Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,28caa03d-a08f-4c65-bb26-af12d69ab67d,Bulk created lead for Example Corp16
+93b5d9c4-16e6-486a-9bdb-fc5e10f7f6bf,2025-08-19T15:46:53.070Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,23aa42b1-3200-47ba-9cf7-09a1ff431024,Bulk created lead for Example Corp15
+f9d26301-bdba-4c68-b858-b8f56ce644c3,2025-08-19T15:46:53.061Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,c9e2b5a0-37bf-4978-9e82-4568e0729555,Bulk created lead for Example Corp14
+bf77451b-2d80-4477-bf32-dc6246bcf362,2025-08-19T15:46:53.050Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,1775c412-6fd3-4621-996b-c5d8df43ecda,Bulk created lead for Example Corp13
+7a127801-0524-4ef8-bcbc-67d17adfc61e,2025-08-19T15:46:53.033Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,75b8e979-019f-4103-8893-05296ca2cdaf,Bulk created lead for Example Corp12
+3c574304-ce8c-4dc6-a247-f7cc62ce5fc3,2025-08-19T15:46:53.019Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,5dae7c73-981b-4539-af83-42289814ec67,Bulk created lead for Example Corp11
+c3c8be16-1fb4-4d7b-b1c6-39fb09c6e699,2025-08-19T15:46:53.006Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,66e41480-72b7-48d2-a776-2487da17fcf6,Bulk created lead for Example Corp10
+156633fe-ae56-4d50-9cc8-9002dea626c6,2025-08-19T15:46:52.991Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,21c15391-4279-4e7f-8ebc-f46bade4f50b,Bulk created lead for Example Corp9
+c84b6b9e-b296-4286-bafc-9b2e75d018cd,2025-08-19T15:46:52.976Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,18c193f7-305c-4440-8d41-0496f0a52f8c,Bulk created lead for Example Corp8
+95333fbf-00a1-47fb-ae61-f1bd60e57153,2025-08-19T15:46:52.953Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,5a1a6001-6381-47f4-b856-fa56e12543a9,Bulk created lead for Example Corp7
+a3420dfc-72e2-4853-8716-6929ba577865,2025-08-19T15:46:52.935Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,ddad9b88-82eb-4518-b1be-24fece89630a,Bulk created lead for Example Corp6
+5a56b5fd-cde5-44bd-926a-d6cbb4943511,2025-08-19T15:46:52.921Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,43ecddcf-62f0-4bba-9831-724e180e0326,Bulk created lead for Example Corp5
+135db528-8cdb-4246-955a-c9f7953a1fda,2025-08-19T15:46:52.909Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,2feff99b-6db2-4808-930e-d680ce1db55d,Bulk created lead for Example Corp4
+f1b63f47-8a44-49f6-b677-e3a2d856cbdc,2025-08-19T15:46:52.897Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,3beec3f9-6e06-4dbb-96bb-ae02fb533119,Bulk created lead for Example Corp3
+ff05d0ac-fdaf-4a3f-a598-e12d08d020d4,2025-08-19T15:46:52.881Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,8efbd08f-d67b-495d-8dc4-b3a7a14a6b44,Bulk created lead for Example Corp2
+453fbeb5-2abe-4881-bf34-ee063a16ca6c,2025-08-19T15:46:52.871Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,c7e8bff9-1904-42b6-807a-b005ffa5e630,Bulk created lead for Example Corp1
+39104bf0-6d3a-49ba-b653-f7d920bb1ef3,2025-08-19T15:46:30.309Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,fa1490bc-55d9-43e0-b39d-5f076bd5c59e,Bulk created lead for Example Corp17
+3200e304-96cf-4701-958d-ab0820713766,2025-08-19T15:46:30.299Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,6aa70ea1-9d89-4bda-90d6-90a5da1e9b16,Bulk created lead for Example Corp16
+b466c356-7f43-41d1-a5e8-9a98e3c1dca8,2025-08-19T15:46:30.291Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,406e820d-a3f4-48b5-8da8-b579c619eecf,Bulk created lead for Example Corp15
+328cea2a-1826-49bc-9e31-43f90589b8e2,2025-08-19T15:46:30.282Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,25ccd929-d035-460f-8f8e-f079d1f6a536,Bulk created lead for Example Corp14
+4f5427b8-bd73-4a49-962b-c291e32be8f3,2025-08-19T15:46:30.274Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,42e419c9-4393-4f65-8de3-af9c010244a9,Bulk created lead for Example Corp13
+73790f35-f698-46ee-8435-2ef49c9d3541,2025-08-19T15:46:30.264Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,5838a802-8f0d-4ae9-9e7f-45f96dd19286,Bulk created lead for Example Corp12
+e82d4df7-b2bd-4dd3-91aa-30eb8be42f7a,2025-08-19T15:46:30.256Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,506229ff-fd58-4e48-8ef1-02bc4da86b6a,Bulk created lead for Example Corp11
+0e378efb-c3f3-4691-81d0-705d6bea012e,2025-08-19T15:46:30.249Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,4841df43-8043-4185-98c7-5bbd8a36a193,Bulk created lead for Example Corp10
+34b2eff3-6b5c-4224-b936-de79e770a2b2,2025-08-19T15:46:30.243Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,3b341809-b1a7-4c35-8247-c9812cc95d0b,Bulk created lead for Example Corp9
+25a0cf8e-5e49-4102-8119-8a8c5cb0f9ff,2025-08-19T15:46:30.238Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,c7afc998-6375-4ebc-a1f7-75410d6cbe88,Bulk created lead for Example Corp8
+8bee7106-222a-48b1-82ea-05397749d82b,2025-08-19T15:46:30.231Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,e577e4aa-80de-4c55-be42-b0222edd9b4e,Bulk created lead for Example Corp7
+4d709c73-ae0a-4611-80a4-4694cdc82bb5,2025-08-19T15:46:30.221Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,63878031-3f46-4038-8066-a6be4c947416,Bulk created lead for Example Corp6
+dc5595aa-e80c-42ac-81bc-a2acf6cfee29,2025-08-19T15:46:30.209Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,5419d22e-c0e0-442a-b8b1-c7529416e8c8,Bulk created lead for Example Corp5
+ee28a881-d294-4bd0-a691-080de22ed13b,2025-08-19T15:46:30.205Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,7d1af9bb-09f1-4ee1-9086-ddf880581032,Bulk created lead for Example Corp4
+c5c31923-4d04-4755-81f8-23addce13ec5,2025-08-19T15:46:30.198Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,a1f551a8-36e1-4809-93b0-1078b740aa04,Bulk created lead for Example Corp3
+07367297-c409-4ca6-9675-96f12faf47b4,2025-08-19T15:46:30.192Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,dae5eec4-8f12-405a-894f-13dc834b81e9,Bulk created lead for Example Corp2
+d9d3967a-b553-415c-be0b-8155f3776842,2025-08-19T15:46:30.179Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,bulk_create_lead,lead,45338708-6b0d-4d79-a19d-518d95e0b024,Bulk created lead for Example Corp1
+84a3b247-b274-40d0-8658-aa90bc7044f4,2025-08-19T15:36:29.428Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,Deleted lead for InnovateTech Corp
+b0c32c75-524f-4ce2-9c76-9568902a2836,2025-08-19T15:36:26.795Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,a09da1e5-047d-4fe0-ab44-b76296a5c9dd,Deleted lead for dinesh
+a8e7ba46-2ba9-40c1-9d2b-66859ec08d7a,2025-08-19T15:36:24.990Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,49b1c255-7487-4392-ae62-9882b42b5460,Deleted lead for Dinesh company
+59238324-a0af-4c77-b11e-677ca1bf205a,2025-08-19T15:36:23.032Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,639f0113-f402-4b0b-86ee-cca2a42a1378,Deleted lead for Tata motors
+31348cf0-2256-4025-b8b6-06b6d9c45579,2025-08-19T15:36:21.081Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,28717835-4182-47ee-88e5-1e35e8db70fb,Deleted lead for Example Corp
+8e0f6dc6-2d1c-4201-ac49-78e5d8a7b48a,2025-08-19T15:36:18.583Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,950ee814-0b67-4b52-a21a-185945bf2931,Deleted lead for Example Corp jh
+54808e2c-e573-49b7-8138-9ddd06faf3ab,2025-08-19T15:36:16.883Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,Deleted lead for Example Corp 1
+5983ffe7-4c0d-4736-8a15-c14e7b23d038,2025-08-19T15:36:15.044Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,3e6f5314-8759-49ec-ae6e-7bb058fc9931,Deleted lead for Example Corp 2
+69a5600c-0ade-48eb-bce4-f01ca70fdfc6,2025-08-19T15:36:13.631Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,Deleted lead for Example Corp 3
+bafab020-37f4-4d62-8f3e-5783a1e9d399,2025-08-19T15:36:12.064Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,Deleted lead for Example Corp 4
+2e350916-c02c-407f-aeda-90f3947ce5a6,2025-08-19T15:36:10.342Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,Deleted lead for Example Corp 5
+f72a37e4-c373-4146-aa9a-6c1c2fe98e1e,2025-08-19T15:36:08.659Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,08949b03-f300-467c-a4c3-210be3c5a387,Deleted lead for Example Corp 6
+fa33d594-c7f5-41d6-8877-a88c0053f696,2025-08-19T15:36:05.657Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,ae998483-2610-40ba-9d2d-a46ffac71453,Deleted lead for Example Corp 7
+eb474fca-8a25-4bfe-9b2a-aff24d0c68b8,2025-08-19T15:36:03.197Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,Deleted lead for Example Corp 8
+68478487-dadb-4c75-863b-aeca2a5db5ef,2025-08-19T15:36:00.657Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,delete,lead,db2b9282-7bbf-4318-96c2-83bbd48f51ed,Deleted lead for Example Corp 9
+ab010dbe-47a3-49c4-acc6-61d703b29559,2025-08-19T15:35:07.760Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,user,51045da3-536c-4367-bcf4-a1017e97dce0,Created user Operations
+2ad9197e-ffa7-4beb-94cc-e0d2ca7fa16f,2025-08-19T15:34:15.430Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,user,2b509c39-c04e-4c50-8789-5bc44759f423,Created user Manager
+e2e2863b-baa0-4090-8a7b-0454bf40fded,2025-08-19T15:33:26.751Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,create,user,04ebc001-71ad-4c72-9fe1-9db9935177c0,Created user Customer
+accfc2d0-90f5-46e3-a716-d11a77732f79,2025-08-19T12:54:18.265Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""New Lead"" to ""Interested"" for Dinesh company"
+56b14e91-4064-4a64-bc9a-e6474f67f40b,2025-08-19T12:54:11.647Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""Proposal Sent"" to ""New Lead"" for Dinesh company"
+b5361034-d27a-4729-81e6-a89d7bf0177a,2025-08-19T12:50:29.411Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+c74419c1-c0ff-4709-bed1-14bcb7e00b84,2025-08-19T12:46:16.438Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""To Apply"" to ""Applied"" for Example Corp jh"
+55b34a1a-dba0-4689-a5ef-35cc49b70757,2025-08-19T12:46:09.803Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""Paid"" to ""To Apply"" for Example Corp jh"
+0308e54c-9262-459c-891f-bc3663075657,2025-08-19T12:45:54.291Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""Payment Link Sent"" to ""Paid"" for Example Corp jh"
+cb6adecb-3f63-4dbe-937a-e76ce335a5ce,2025-08-19T12:45:51.216Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""Proposal Sent"" to ""Payment Link Sent"" for Example Corp jh"
+c2bc1895-6cd6-4cda-99e1-259ad78f9d1c,2025-08-19T12:45:47.785Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Example Corp jh"
+a8a4cc73-e5a9-48f1-9d12-205c7411d22a,2025-08-19T12:45:44.982Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Example Corp jh"
+9e890ca4-8fff-44cc-a277-715a91073814,2025-08-19T12:45:40.344Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""Interested"" to ""Screening Pass"" for Example Corp jh"
+63997980-a479-4ed9-a664-763175732ec8,2025-08-19T12:45:34.713Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,status_change,lead,950ee814-0b67-4b52-a21a-185945bf2931,"Changed status from ""New Lead"" to ""Interested"" for Example Corp jh"
+0ee7626c-4eec-491c-8bbe-bc83ad83bf71,2025-08-19T12:17:49.291Z,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,login,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,User Dinesh logged in
+ff4a5b3c-93a7-46db-9684-db970c2a72a6,2025-08-19T12:17:35.038Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,logout,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User logged out
+563e599c-886c-49fd-b4fb-7ee9107ffc60,2025-08-19T12:17:30.896Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,create,user,b75f98bd-f8a2-41b1-8bc5-16a59ad90595,Created user Dinesh
+83706a98-7f99-4c54-b92d-083b1b30f36d,2025-08-19T12:17:03.384Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,delete,user,f15a17e3-af0b-4b04-b51c-0c6a513940c9,Deleted user operations
+7a978ba9-e2c4-49df-943d-8dd15c36f310,2025-08-19T12:16:55.178Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,delete,user,d15a17e3-af0b-4b04-b51c-0c6a513940c8,Deleted user customer_success
+52f54d6d-5ab1-42f5-8824-eb6cc1285b01,2025-08-19T12:16:50.831Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,delete,user,38616a16-47e7-4a38-b656-fa789211246c,Deleted user manager
+18696541-25cc-4cbc-9014-5461b8416e5d,2025-08-19T12:16:19.157Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+473853fc-c44c-4d01-9f96-e2db544ec9a7,2025-08-19T12:10:45.009Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,logout,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User logged out
+2e5fa0c6-6bed-4a1c-84c4-621aa339f7e5,2025-08-19T12:10:21.534Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+7431a3d5-0f65-47cf-8479-d284a2e3dce7,2025-08-19T12:06:38.359Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+3c0a4769-4159-4f0b-b6e9-a11f2b785844,2025-08-19T12:06:23.180Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+d297e72f-7fd8-49ad-906e-6c8d0a0d1cda,2025-08-19T12:06:07.103Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+8ad86205-dea0-4d2d-922e-3674bde9ffeb,2025-08-19T12:05:45.946Z,fe44582b-b739-4c07-9ad5-796f86d0d556,create,user,d6712228-7022-489e-8080-0f87c4c921d1,Created user Admin
+5b7c9464-777b-4dde-b00c-f89b9cb63cae,2025-08-19T12:04:25.381Z,fe44582b-b739-4c07-9ad5-796f86d0d556,delete,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,Deleted user admin
+0c9655b4-725a-4b23-99c8-e7f2bcfcb241,2025-08-19T12:04:14.968Z,fe44582b-b739-4c07-9ad5-796f86d0d556,delete,user,d15a17e3-af0b-4b04-b51c-0c6a513940c8,Deleted user customer_success
+8a415c9b-2b96-476c-9353-0f5dbb1e85c0,2025-08-19T12:04:12.521Z,fe44582b-b739-4c07-9ad5-796f86d0d556,delete,user,38616a16-47e7-4a38-b656-fa789211246c,Deleted user manager
+2b818306-50ec-45df-ac8c-7acb801ac766,2025-08-19T12:04:08.630Z,fe44582b-b739-4c07-9ad5-796f86d0d556,delete,user,f15a17e3-af0b-4b04-b51c-0c6a513940c9,Deleted user operations
+c620455a-26b5-414b-abd6-877eb5f87b84,2025-08-19T12:03:48.687Z,fe44582b-b739-4c07-9ad5-796f86d0d556,delete,user,e88ea1cc-b6b3-4454-83eb-c114d9828105,Deleted user Yokeshwari
+e4a20af0-914f-46db-b3ae-41d5599623c0,2025-08-19T12:02:56.289Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+19b94ba4-3077-40ed-8df8-9b7bb7eae0e1,2025-08-19T12:02:53.447Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+9d4f8af3-99be-42ee-86dc-d7d0aebc6b2a,2025-08-19T11:57:35.964Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+ac1af398-eb0c-4f4f-b9ad-7331c36a7873,2025-08-19T11:57:32.155Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+59539e60-50e2-421b-a3e8-5f2bc58a972f,2025-08-19T11:52:23.446Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+23f7fc52-3ffe-407a-b8ad-5a1e8c337e43,2025-08-19T11:52:21.539Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+1cd5c406-f046-413e-8376-dd00c3cc11c6,2025-08-19T11:43:58.937Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,639f0113-f402-4b0b-86ee-cca2a42a1378,"Changed status from ""Call Back"" to ""Interested"" for Tata motors"
+1ed79063-4c39-4cee-86fc-fc1ab1f32062,2025-08-19T11:43:55.407Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,639f0113-f402-4b0b-86ee-cca2a42a1378,"Changed status from ""New Lead"" to ""Call Back"" for Tata motors"
+bc5ba350-5bff-469f-9be7-7eee1461cb23,2025-08-19T11:43:33.279Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+6bcd7f43-82f0-4071-8cd2-d9d658ec8179,2025-08-19T11:43:28.608Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+81c8e154-5e91-4532-ac69-7f4169da505c,2025-08-19T07:20:38.161Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+124045a8-35e8-48d2-a026-673322a88203,2025-08-19T07:20:34.661Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+e67b0d57-4f4c-436b-b242-c2147d05a794,2025-08-19T07:15:35.849Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,28717835-4182-47ee-88e5-1e35e8db70fb,"Changed status from ""New Lead"" to ""Interested"" for Example Corp"
+25a705f7-119b-40fd-9195-8b37f8cefdc9,2025-08-19T07:14:58.199Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,3e6f5314-8759-49ec-ae6e-7bb058fc9931,"Changed status from ""New Lead"" to ""RNR"" for Example Corp 2"
+ba542054-0538-473a-b353-57a7f78c6088,2025-08-19T06:59:17.008Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Applied"" to ""Approved"" for Example Corp 1"
+9aa37894-5f1b-455d-b8be-319a54b2068c,2025-08-19T06:59:08.076Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""To Apply"" to ""Applied"" for Example Corp 1"
+0dd053dc-d8c8-4563-98ee-4b27d924db9a,2025-08-19T06:59:05.005Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Paid"" to ""To Apply"" for Example Corp 1"
+248a8acb-f1db-4082-82f8-9ae43b5002f5,2025-08-19T06:59:01.987Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Payment Link Sent"" to ""Paid"" for Example Corp 1"
+48abe306-46fd-4a47-9565-9503f7ed5c88,2025-08-19T06:58:59.541Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Proposal Sent"" to ""Payment Link Sent"" for Example Corp 1"
+13d71a3c-65cc-49be-a3df-2e6f9258490d,2025-08-19T06:58:55.483Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Example Corp 1"
+8c46f9af-9234-44c3-9d65-3cda37b5eac8,2025-08-19T06:58:51.755Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Example Corp 1"
+eaaa9b29-5a44-47f3-91df-120dd8652286,2025-08-19T06:58:48.153Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""Interested"" to ""Screening Pass"" for Example Corp 1"
+defa81ec-01b1-464b-ae17-9f40ec0d038c,2025-08-19T06:58:43.916Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 1"
+deeda98f-10d5-4ba9-9a0c-a155d4218c91,2025-08-19T06:53:56.119Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Applied"" to ""Approved"" for Example Corp 3"
+7f0a5ba9-a64d-42fb-a379-3695452a0bf4,2025-08-19T06:53:52.722Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""To Apply"" to ""Applied"" for Example Corp 3"
+9b4004cc-5682-4035-b721-5ad5609f3119,2025-08-19T06:53:47.571Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Paid"" to ""To Apply"" for Example Corp 3"
+14da71af-56a9-495d-9201-37a475eb521c,2025-08-19T06:53:44.847Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Payment Link Sent"" to ""Paid"" for Example Corp 3"
+750ccadd-8a00-4077-8e63-9e4e48e10b1a,2025-08-19T06:53:42.042Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Proposal Sent"" to ""Payment Link Sent"" for Example Corp 3"
+684e9f89-cd82-46cb-bbbb-237afa50860b,2025-08-19T06:53:38.106Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Example Corp 3"
+0b2675b6-9eb3-4f42-9d1b-6e11a329c03c,2025-08-19T06:53:34.452Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Example Corp 3"
+e2ef1c76-e487-4b76-97f6-364f63411ae3,2025-08-19T06:53:28.847Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""Interested"" to ""Screening Pass"" for Example Corp 3"
+bf854538-49ae-4cdc-9f46-a4b2c8710c1a,2025-08-19T06:53:25.413Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 3"
+9a756974-012b-4328-88a9-0739845c8189,2025-08-19T06:53:17.065Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+eda65a10-3f73-4240-b5c0-4eea732e66ec,2025-08-19T06:53:14.335Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+262c259e-e25b-4444-951f-b1c23a3d3f35,2025-08-19T06:45:14.512Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,"Changed status from ""Proposal Sent"" to ""Interested"" for Example Corp 4"
+eac734c9-9de3-4dd9-acbe-d4990b5f9308,2025-08-19T06:45:10.591Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Example Corp 4"
+702df2ed-5693-4a75-8dd6-d7fb8dbbde21,2025-08-19T06:45:07.474Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Example Corp 4"
+23bcaea3-445c-4151-9c6c-27da670c1ebb,2025-08-19T06:45:04.733Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,"Changed status from ""Screening"" to ""Screening Pass"" for Example Corp 4"
+edb2ef52-20f2-41bb-9e70-cf09bc94baed,2025-08-19T06:45:00.742Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,"Changed status from ""Interested"" to ""Screening"" for Example Corp 4"
+c381a8b8-fc86-4042-b98c-6807cc0acc23,2025-08-19T06:44:54.618Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 4"
+e14a1776-13a3-4e59-a518-6a6ba9fc4205,2025-08-19T06:44:42.588Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+b6304071-de8f-421f-8c1c-174513a0023d,2025-08-19T06:44:39.597Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+85778f9b-874a-4337-8137-9102c204b8a8,2025-08-19T06:36:45.435Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""Interested"" to ""Screening"" for Example Corp 5"
+9924dca9-8b1d-491b-b517-fccd99d6e8a4,2025-08-19T06:36:39.288Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""Proposal Sent"" to ""Interested"" for Example Corp 5"
+9344f997-3a65-4461-8343-0d1290a6ab28,2025-08-19T06:36:36.156Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Example Corp 5"
+5d700d4f-3b43-4bca-9974-9d9b4f465ac9,2025-08-19T06:36:32.422Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Example Corp 5"
+c9885dc2-af1f-4c7d-a575-27431d855e4f,2025-08-19T06:36:28.566Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""Screening"" to ""Screening Pass"" for Example Corp 5"
+e0641c0b-7c1a-4e70-af88-fdc30c7ab972,2025-08-19T06:36:20.697Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""Interested"" to ""Screening"" for Example Corp 5"
+1405395c-7a2b-4388-8b0d-e177d91e59a9,2025-08-19T06:36:16.915Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 5"
+dc6def96-428b-4b40-b644-a9526dedeed7,2025-08-19T06:35:59.206Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ae998483-2610-40ba-9d2d-a46ffac71453,"Changed status from ""Interested"" to ""Screening"" for Example Corp 7"
+a28c1a2a-c13d-4afe-acc2-74b9fa8e678d,2025-08-19T06:34:32.319Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,08949b03-f300-467c-a4c3-210be3c5a387,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 6"
+7a7e9aab-04cc-4f73-8080-b67453c5ad48,2025-08-19T06:34:19.132Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+8fb017a5-09d0-4c98-adf6-36d0bf638e4d,2025-08-19T06:34:16.116Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+6c8e814e-f905-4578-b2f3-a686fcd4cd4a,2025-08-19T05:18:25.899Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+468faa8d-0d38-4169-abaa-30120b120da6,2025-08-19T05:10:47.063Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+1da8d36b-be1d-421b-ab86-d9acf422d3ce,2025-08-19T05:04:07.332Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+4ca11a6b-642f-4619-b62d-9ff92a0216f0,2025-08-19T04:54:44.880Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+e3b7d315-86b1-471f-bd15-22e049d80592,2025-08-18T10:46:31.543Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+d9d6ae3d-8732-4a68-9e6e-4f11f99b8cc0,2025-08-18T10:44:13.962Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+97a6bfa2-0899-4ffe-911a-edea30cb80ee,2025-08-18T10:39:12.893Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+9ad358a7-edc1-405d-a2f3-d5037aa94685,2025-08-18T10:39:06.442Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+17260592-c9a1-496d-b07e-b5b9fbbe322b,2025-08-18T06:39:31.936Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+62f48af1-3f2a-4954-a13c-14b996cd4bf3,2025-08-18T06:38:09.908Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+739602e6-7d1e-452c-a7bd-c4d57faceaa1,2025-08-18T06:24:30.044Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,ae998483-2610-40ba-9d2d-a46ffac71453,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 7"
+20724ef5-7158-4133-b9d5-fbac8032cefb,2025-08-18T06:24:02.194Z,fe44582b-b739-4c07-9ad5-796f86d0d556,update_questions,lead,ae998483-2610-40ba-9d2d-a46ffac71453,Updated detailed questions for Example Corp 7
+170eb401-5e58-4988-908e-ffa5249f4623,2025-08-18T06:15:46.820Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+bbb45952-fcc4-4593-9b0c-853a952b5252,2025-08-18T06:15:33.831Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+dc7a35dd-e778-4abb-a443-c82503bd334b,2025-08-18T06:10:15.167Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+824af67d-4edf-42b0-a9d6-64633fb32d26,2025-08-18T06:08:45.462Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+291771f7-db12-41c3-bf4b-d23d5dd1246a,2025-08-18T05:58:11.422Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Screening"" to ""Screening Pass"" for Example Corp 8"
+bda5f12d-97e0-49bc-a264-08986298ee3c,2025-08-18T05:58:07.468Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Interested"" to ""Screening"" for Example Corp 8"
+517e5f99-b897-418e-9a9f-11a4198e8207,2025-08-18T05:58:04.466Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Proposal Sent"" to ""Interested"" for Example Corp 8"
+f7667cdd-ae26-42c4-bb5d-3a506c6da43d,2025-08-18T05:57:58.744Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Example Corp 8"
+25bbba72-3831-4f0e-89ca-3613252c475a,2025-08-18T05:57:55.176Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Example Corp 8"
+d04f4432-aaf8-41c8-aa30-c5fc5847a336,2025-08-18T05:57:52.410Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Screening"" to ""Screening Pass"" for Example Corp 8"
+4fdd2f23-d471-4d75-aabd-6c05cc598b18,2025-08-18T05:57:48.451Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""Interested"" to ""Screening"" for Example Corp 8"
+c6fd39c4-3685-4519-ad65-4014d62f61ee,2025-08-18T05:57:43.982Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 8"
+7ea82efb-01c0-492f-b997-3d1fcf968e4c,2025-08-18T05:57:21.390Z,fe44582b-b739-4c07-9ad5-796f86d0d556,update_questions,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,Updated detailed questions for Example Corp 8
+fdcaeae2-2691-4758-af36-46ead2798bf8,2025-08-18T05:53:08.997Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+58811c87-3fe0-450e-9e74-5a8d37177b22,2025-08-18T05:50:01.732Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+b55e9ccb-ebf8-42f0-bc13-950fe9931e30,2025-08-18T05:48:58.611Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,db2b9282-7bbf-4318-96c2-83bbd48f51ed,"Changed status from ""Interested"" to ""Screening"" for Example Corp 9"
+fe6292b6-cc66-40db-ae56-4187067e80f0,2025-08-18T05:48:53.347Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,db2b9282-7bbf-4318-96c2-83bbd48f51ed,"Changed status from ""New Lead"" to ""Interested"" for Example Corp 9"
+96dbae3c-ced0-4bae-9485-580cf0117250,2025-08-18T05:45:44.738Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+276bee60-2bce-4fac-8c83-bdb479a04d47,2025-08-18T05:45:23.852Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+b5a5183b-f29e-4b95-ba78-044bc849f4a5,2025-08-18T05:29:34.027Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+15f97173-21c9-4385-9166-9e6cf1e7abd5,2025-08-18T05:29:29.613Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+f748b6e8-6bac-4a03-9683-566425605a99,2025-08-18T04:58:14.024Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+6a60ecb5-7373-4f9c-a9b3-3854ce2f177f,2025-08-18T04:57:11.565Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+d2ee37e6-a8af-476b-902c-d89bb241094c,2025-08-18T04:57:06.694Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+03d10c87-5373-4581-8c26-12758d79b113,2025-08-18T04:55:31.141Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+26c42abf-1d6f-4e0e-bdb2-515cf83e13b9,2025-08-18T04:52:41.203Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+cc9cf423-500e-42c8-9945-76a50df14baf,2025-08-17T18:32:35.202Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+986b3c76-9d38-421b-985b-d1cca1c5e4b2,2025-08-17T18:31:38.074Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+a085da88-5dfe-4d87-b9c6-c39fda08c5c7,2025-08-17T18:26:48.415Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+80d678a7-f94b-41b1-b89e-24ab5a99e35a,2025-08-17T18:23:31.229Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+396175b6-2795-4785-88d3-f7705be75dca,2025-08-17T18:17:27.025Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+cc8721a0-48be-44e2-8d0f-bd8d2c39ab02,2025-08-17T16:41:53.906Z,fe44582b-b739-4c07-9ad5-796f86d0d556,assign_lead,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,Assigned lead InnovateTech Corp to user partner
+b53bd5b8-71e8-4971-9e0e-53fcebea3c3e,2025-08-17T16:41:50.334Z,fe44582b-b739-4c07-9ad5-796f86d0d556,assign_lead,lead,49b1c255-7487-4392-ae62-9882b42b5460,Assigned lead Dinesh company to user partner
+360f10af-d579-4dae-a9f5-7526fa7b1aca,2025-08-17T16:41:45.314Z,fe44582b-b739-4c07-9ad5-796f86d0d556,assign_lead,lead,a09da1e5-047d-4fe0-ab44-b76296a5c9dd,Assigned lead dinesh to user Admin
+6dca1eb6-449e-4134-8683-dd3f5981ce72,2025-08-17T16:39:02.785Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+3ce3d879-17d3-494d-be54-fa915f86b5d2,2025-08-17T16:27:38.641Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+dbc6c958-d80f-4038-b1ef-cc1d24d5e159,2025-08-17T16:23:28.031Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+e699bce3-e53a-4a49-96f1-29b77ca7e3b9,2025-08-17T16:23:23.773Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+45b0edc5-8894-4fda-8637-cdaeba8c9e4b,2025-08-17T16:01:26.001Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+0e49f3ba-0a34-4532-9b11-f56f8ca6c0e1,2025-08-17T16:01:22.140Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+d168971f-5150-473d-ac8d-8e8dbf9db2ad,2025-08-17T15:53:18.567Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+766e2660-8e87-4ee2-aed5-b22f8076dd15,2025-08-17T15:53:13.888Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+dde3aa4a-95c3-44ea-9cca-a297dd691ef3,2025-08-17T15:47:26.430Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+a5743431-39c8-49c5-8553-af7098d2e88a,2025-08-17T15:46:53.307Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+29bb196a-44dd-4b3b-8a91-68001bda04ce,2025-08-17T15:39:53.619Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+590c227d-4329-4291-8596-e038a8fcae86,2025-08-17T15:39:17.989Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+665763eb-066a-44a7-8538-b373a38e3aee,2025-08-17T15:32:19.365Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+73e89607-e62c-4f8d-9abd-7498664589b7,2025-08-17T08:06:20.203Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+e5787793-f492-47c6-a216-ae85e7fd76f2,2025-08-17T08:03:38.130Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+9dca9f59-9c24-48e1-995f-48db29cd1868,2025-08-17T08:03:31.647Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+20f4ce60-b367-4bd1-8466-da34ce0bd627,2025-08-17T07:56:55.979Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+eaa4fa70-4399-40a6-b9d2-67a1aff3e31f,2025-08-17T07:48:37.796Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+3f258e37-1009-4e8e-95fc-62e26f9ead75,2025-08-17T07:43:17.481Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+8f9388fb-85fe-4319-8ff7-6684579a48b7,2025-08-17T07:37:49.346Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+c66489b9-b4a3-4f6e-b17c-0bf34e3cd9fa,2025-08-17T07:35:09.587Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+a165d7eb-d675-4c2c-b0f8-4f232a6abf6b,2025-08-17T07:34:45.985Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+6afc77e3-ee12-433f-8ea7-7c4e425471c3,2025-08-17T07:28:21.300Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+93e13ddb-17e5-44a3-b333-cdedc131d835,2025-08-17T06:43:32.537Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+d10a1f11-c957-4db2-a6d1-ca90610be2d4,2025-08-17T06:41:29.836Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+cd92de30-3002-4402-87b6-f046373bd691,2025-08-17T06:37:40.386Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+77573830-fa76-4e48-8ec1-bd6341a7d540,2025-08-17T06:36:16.187Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+67207460-f8d1-420b-8b0d-d3a3c3a9905a,2025-08-17T06:36:14.675Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+cde8572a-812e-47d6-bc23-b802d5a4a663,2025-08-17T06:28:11.746Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+2f918d4c-36aa-4564-8374-e0f53dd384bf,2025-08-17T06:27:50.391Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+0ab61d38-8e1c-4a3c-b3b6-baa9ea2d8a80,2025-08-17T06:27:48.710Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+f0c9eb43-8c90-490b-a994-5d45318326b0,2025-08-17T06:15:37.665Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+3704a3ce-3c3c-4453-9f82-a9fa35ae6192,2025-08-17T06:12:14.781Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+1335fdd1-5302-489b-8568-3fb832363998,2025-08-17T06:12:12.874Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+08a7cbcb-174a-40e9-8348-d740b98d9f95,2025-08-17T05:47:58.631Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,db2b9282-7bbf-4318-96c2-83bbd48f51ed,Bulk created lead for Example Corp 9
+9fc82685-5dc0-4e69-a24a-ad263669a847,2025-08-17T05:47:58.623Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,c97c1067-9afc-428b-a16f-54d3ac1e5b3d,Bulk created lead for Example Corp 8
+77e1b9d8-82aa-4446-94c4-0334b9b503f4,2025-08-17T05:47:58.610Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,ae998483-2610-40ba-9d2d-a46ffac71453,Bulk created lead for Example Corp 7
+4fdcad82-42d2-42f4-8d9d-786c83cf322a,2025-08-17T05:47:58.601Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,08949b03-f300-467c-a4c3-210be3c5a387,Bulk created lead for Example Corp 6
+a09c0e25-8835-430e-9a95-01ca2209fcb9,2025-08-17T05:47:58.591Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,ff225aba-06cc-4d53-b72a-795cb4f4aef0,Bulk created lead for Example Corp 5
+f5251da8-192d-43a1-a04c-1d7fe7ab00ce,2025-08-17T05:47:58.581Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,1b330895-8b7f-4dae-af43-0f6fdedc0b2a,Bulk created lead for Example Corp 4
+da9da6ca-725f-4e2a-80f5-633c8e7e91e0,2025-08-17T05:47:58.569Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,9b3f1d0f-54ad-466c-b5e3-abe6b12fd811,Bulk created lead for Example Corp 3
+0b799534-7106-4667-bb78-24b19ca4b0de,2025-08-17T05:47:58.555Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,3e6f5314-8759-49ec-ae6e-7bb058fc9931,Bulk created lead for Example Corp 2
+3d7cf888-6ed1-41d7-aae0-78d3f34c17f2,2025-08-17T05:47:58.540Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,144c3db9-77dd-439b-8c21-1a2ac5c1f60a,Bulk created lead for Example Corp 1
+22f1595f-b525-46d7-8da7-e1d2a213514d,2025-08-17T05:46:04.959Z,fe44582b-b739-4c07-9ad5-796f86d0d556,create,user,e88ea1cc-b6b3-4454-83eb-c114d9828105,Created user Yokeshwari
+5d09675b-b635-4e3e-86c9-08c1e5e1834f,2025-08-17T05:40:51.925Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,950ee814-0b67-4b52-a21a-185945bf2931,Bulk created lead for Example Corp jh
+dbbc9248-e51a-456b-bdc5-63a183942eac,2025-08-17T05:40:51.906Z,fe44582b-b739-4c07-9ad5-796f86d0d556,bulk_create_lead,lead,28717835-4182-47ee-88e5-1e35e8db70fb,Bulk created lead for Example Corp
+9dc69f90-19fb-43e2-b523-8c7993ab0d0a,2025-08-17T05:40:41.410Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+9a092311-1b28-4fdd-9716-cc3ffe19c382,2025-08-17T05:17:13.022Z,fe44582b-b739-4c07-9ad5-796f86d0d556,assign_lead,lead,639f0113-f402-4b0b-86ee-cca2a42a1378,Assigned lead Tata motors to user manager
+4d5b9d9a-4f8d-40ec-834c-fd1c77b75630,2025-08-17T05:17:06.173Z,fe44582b-b739-4c07-9ad5-796f86d0d556,assign_lead,lead,639f0113-f402-4b0b-86ee-cca2a42a1378,Assigned lead Tata motors to user admin
+49622c62-471b-474c-8455-d81546de37ce,2025-08-17T04:39:27.238Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+d6079201-5000-4e0b-8c2c-e1386afb4c9d,2025-08-17T04:24:34.057Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+d980f80d-4e86-46d5-9b5e-291583dd5c79,2025-08-16T09:43:39.871Z,fe44582b-b739-4c07-9ad5-796f86d0d556,regenerate_links,Partner,06e014f2-55c3-4a3f-a35b-d7759c3f8c96,Regenerated links for Partner TechStart Solutions
+6c743238-636c-408b-9cd4-fa59b1cb314d,2025-08-16T09:42:57.329Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+8cf40f0e-372b-46dc-86a2-0404c02dae98,2025-08-16T09:42:19.499Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+16699250-55b4-41c7-9841-d21ce277a43c,2025-08-16T06:02:24.738Z,fe44582b-b739-4c07-9ad5-796f86d0d556,status_change,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for InnovateTech Corp"
+2ac5b0e0-6a0f-4b45-b99b-c1084b935a6b,2025-08-16T06:02:03.023Z,fe44582b-b739-4c07-9ad5-796f86d0d556,update_questions,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,Updated detailed questions for InnovateTech Corp
+807db408-7fa7-40f4-b956-936d84034b93,2025-08-16T06:00:47.341Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+659c08de-f561-4357-a4fc-eaba41c96eeb,2025-08-16T06:00:34.594Z,fe44582b-b739-4c07-9ad5-796f86d0d556,logout,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User logged out
+ad11b1a5-0fb6-4b34-9213-a6af29198906,2025-08-16T05:45:01.208Z,fe44582b-b739-4c07-9ad5-796f86d0d556,login,user,fe44582b-b739-4c07-9ad5-796f86d0d556,User Admin logged in
+a423b48d-85c3-4574-9652-ccd2e80122ed,2025-08-16T05:44:31.213Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,logout,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User logged out
+778efd2a-5d83-4230-894b-22a57c43b574,2025-08-16T05:44:25.210Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,create,user,fe44582b-b739-4c07-9ad5-796f86d0d556,Created user Admin
+86797af9-b2ac-48c9-8e1a-640b08fc565d,2025-08-16T05:33:42.698Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+e29765a5-02e2-4d35-b5fe-6da27ed5d781,2025-08-16T05:33:02.782Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+7ba37816-d9de-4378-bbe1-551a34b370c5,2025-08-16T05:29:51.891Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,logout,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User logged out
+31b96b79-af0e-44b6-9601-5181738d471c,2025-08-16T05:25:11.457Z,system,submit,lead,639f0113-f402-4b0b-86ee-cca2a42a1378,Grant application submitted for Tata motors
+9243e69f-9d0b-4389-8c20-b1f566c9dba2,2025-08-16T05:24:16.478Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,create,Partner,b3fefb49-e6d9-4e49-9f81-79ea6d5221d9,Created Partner Myprobuddy
+15430690-3977-4629-bb90-f674c3f34a20,2025-08-16T05:13:10.701Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+a68a4280-b382-447e-90c7-2119a27779b2,2025-08-16T05:12:36.996Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,logout,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User logged out
+8f9a84c3-f5f4-42fa-a310-eb24cfd1cda6,2025-08-16T05:10:28.984Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+a94979f2-5529-4a2e-bac1-dec738cc953c,2025-08-14T17:18:29.224Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+ab26d92a-a80a-4d1e-ba64-2a9494957c5e,2025-08-14T17:06:20.307Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+a42d1b1a-9f25-44c2-b5bd-d8e93478d5e2,2025-08-14T16:34:04.700Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+cba264e7-123e-45e4-ac7d-593896d26117,2025-08-14T14:02:50.041Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,update_questions,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,Updated detailed questions for InnovateTech Corp
+99b8a647-ecc4-4676-a384-c87992f3f629,2025-08-14T13:59:57.648Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,update_questions,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,Updated detailed questions for InnovateTech Corp
+5d0dd303-7fc4-4ce4-aef6-76b8300a4fd7,2025-08-14T13:58:03.055Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""Proposal to be Sent"" to ""Proposal Sent"" for Dinesh company"
+8e0e43d9-483d-4444-8b18-5c7e6ed8fae1,2025-08-14T13:57:57.907Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""Screening Pass"" to ""Proposal to be Sent"" for Dinesh company"
+650ce17d-1921-42b7-b7aa-2aa6f478becd,2025-08-14T13:57:53.613Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""Screening"" to ""Screening Pass"" for Dinesh company"
+6e0fd00a-a002-49b9-b3e3-febee2a581b1,2025-08-14T13:57:48.487Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""Interested"" to ""Screening"" for Dinesh company"
+e51323a9-c214-49cf-9cec-92ca4ed68d03,2025-08-14T13:57:37.956Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,49b1c255-7487-4392-ae62-9882b42b5460,"Changed status from ""New Lead"" to ""Interested"" for Dinesh company"
+d25f774f-1ca9-4dec-8770-bd4af8d3b91d,2025-08-14T13:57:18.301Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,a09da1e5-047d-4fe0-ab44-b76296a5c9dd,"Changed status from ""RNR"" to ""Reject - RNR"" for dinesh"
+eb3303f8-e0e6-45c8-808d-22925c688ae6,2025-08-14T13:46:39.059Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,a09da1e5-047d-4fe0-ab44-b76296a5c9dd,"Changed status from ""New Lead"" to ""RNR"" for dinesh"
+f506a9f9-1864-49fb-b509-bc91851cd59c,2025-08-14T12:47:03.688Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,id,"Changed status from ""currentStatus"" to ""Interested"" for companyName"
+25c727fb-de95-4a9d-993f-8c66c299df89,2025-08-14T12:44:32.125Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,"Changed status from ""Approved"" to ""Screening Pass"" for InnovateTech Corp"
+d7e3349b-c192-4690-9a47-71f96e1a238c,2025-08-14T12:33:11.435Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,update,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,Updated lead for InnovateTech Corp
+1beef510-d3ee-408e-adf8-dc869524efb7,2025-08-14T12:33:01.892Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,status_change,lead,e7542aa4-69d5-4401-ad21-4ca33f779255,"Changed status from ""New Lead"" to ""Approved"" for InnovateTech Corp"
+29a33c5e-a051-4a52-8f01-0daa8d6941ca,2025-08-14T12:25:14.536Z,system,submit,lead,49b1c255-7487-4392-ae62-9882b42b5460,Equity application submitted for Dinesh company
+67b8951f-3756-41a8-a662-6844202759f1,2025-08-14T12:24:35.236Z,system,submit,lead,a09da1e5-047d-4fe0-ab44-b76296a5c9dd,Grant application submitted for dinesh
+3f703134-0e42-4a39-9fb5-0425ae11689c,2025-08-14T12:06:35.117Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,regenerate_links,Partner,e48a6e9d-3d46-46bc-bb40-2a82b1371190,Regenerated links for Partner GreenEco Ventures
+6708b0bc-8f5c-435f-a04c-a9c73ee86d6e,2025-08-14T12:06:23.422Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,regenerate_links,Partner,e48a6e9d-3d46-46bc-bb40-2a82b1371190,Regenerated links for Partner GreenEco Ventures
+6f0e035b-fd35-49cf-adbb-f3f319b60ee7,2025-08-14T12:03:13.933Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,regenerate_links,Partner,e48a6e9d-3d46-46bc-bb40-2a82b1371190,Regenerated links for Partner GreenEco Ventures
+219178ce-4a15-42d9-81be-284af6f6a7f8,2025-08-14T12:03:02.471Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,regenerate_links,Partner,06e014f2-55c3-4a3f-a35b-d7759c3f8c96,Regenerated links for Partner TechStart Solutions
+0cc1af56-60cb-4c71-8614-5006b9ce2fc5,2025-08-14T11:46:47.499Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,create,Partner,6473783e-e329-425a-8212-0a850f66e8ed,Created Partner MyProBuddy
+bd3469d8-e250-4df9-8c64-2973866c20e7,2025-08-14T11:46:38.110Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,delete,Partner,620e0947-a0e8-48c2-bbce-b6be1bfb7a8c,Deleted Partner
+32a6e108-ef2b-40cd-bd04-70094a7338d1,2025-08-14T11:46:28.193Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,update,Partner,620e0947-a0e8-48c2-bbce-b6be1bfb7a8c,Updated Partner MyProBuddy
+826369b6-254e-4cf3-bb36-c572c2d88fc0,2025-08-14T11:40:58.904Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,create,Partner,620e0947-a0e8-48c2-bbce-b6be1bfb7a8c,Created Partner MyProBuddy
+e7bbeee2-a990-439e-95cb-7f40db8b1691,2025-08-14T11:40:35.802Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+03c29e31-22d6-4f70-b389-fdfa3039a73c,2025-08-14T11:39:04.698Z,d15a17e3-af0b-4b04-b51c-0c6a513940c8,login,user,d15a17e3-af0b-4b04-b51c-0c6a513940c8,User partner logged in
+8fd7d5b2-69ec-410d-88e9-cdcfed563d65,2025-08-14T11:38:52.220Z,38616a16-47e7-4a38-b656-fa789211246c,login,user,38616a16-47e7-4a38-b656-fa789211246c,User manager logged in
+c7e072fe-4d85-4db6-a91d-8ff821bef9ef,2025-08-14T11:38:10.092Z,b98ad399-fc06-4569-861e-e4fddd83c7e7,login,user,b98ad399-fc06-4569-861e-e4fddd83c7e7,User admin logged in
+a3936143-85d0-4258-8a34-71fca40cf48d,2025-08-19T20:22:07.620Z,51045da3-536c-4367-bcf4-a1017e97dce0,logout,user,51045da3-536c-4367-bcf4-a1017e97dce0,User logged out
