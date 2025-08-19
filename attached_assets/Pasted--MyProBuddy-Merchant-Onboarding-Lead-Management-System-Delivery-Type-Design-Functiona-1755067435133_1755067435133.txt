@@ -1,0 +1,243 @@
+# MyProBuddy – Partner Onboarding & Lead Management System
+
+**Delivery Type:** Design & Functional Specification + Replicate Prompts
+**Tech Preference:** React + Tailwind (frontend), Node/Express (backend), CSV storage
+**Theme:** Clean, minimal UI inspired by Zoho (from provided screenshots)
+
+---
+
+## 1) System Purpose
+
+A CSV-based web application to:
+
+* Onboard Partners for **Grants**, **Equity**, or **Both**.
+* Generate **Partner-specific submission links** and **QR codes**.
+* Capture detailed, type-specific **lead forms**.
+* Manage leads through a **strict status hierarchy** with auto-advancement rules.
+* Provide **dashboards** and **reports** (CSV/PDF export).
+* Enforce **role-based access control (RBAC)** for every module and action.
+
+---
+
+## 2) Visual Theme & Branding (Zoho-style)
+
+* **Background:** White; generous whitespace.
+* **Primary Button:** Blue (#0078FF) with hover = darker blue.
+* **Accent/Warn:** Red (#E74C3C) for destructive/warn; Green (#2ECC71) for success.
+* **Typography:** Sans-serif (Inter/Open Sans). Headings bold black; subtext gray.
+* **Components:** Rounded corners, soft shadows, consistent padding; card-based.
+* **Logo:** “MyProBuddy” with colorful, geometric, modern motif (distinct from Zoho).
+
+---
+
+## 3) Authentication Flow (Two Pages)
+
+### Page A – Welcome / Entry (pre-login)
+
+* Centered MyProBuddy logo.
+* Heading: **“Log in to access MyProBuddy.”**
+* Large **SIGN IN** button (red, white text, rounded; hover → darker red).
+* Below: `Don’t have a MyProBuddy account? Sign Up Now` (blue link).
+* Footer center: `© 2025, MyProBuddy Pvt. Ltd. All Rights Reserved.`
+
+### Page B – Credential Entry
+
+* Centered **white card** on subtle light background.
+* Header-left: MyProBuddy logo; header-right: **“Try smart sign-in ✨”** pill (blue).
+* Title: **Sign in**; Subtext: `to access MyProBuddy Home`.
+* Fields: `Email address or mobile number`, `Password`.
+* Primary button: **Login** (blue).
+* On success → **Dashboard** (role-based menus/content).
+
+> **Accessibility:** aria labels on inputs/buttons; visible focus rings; link underlines on hover.
+
+---
+
+## 4) Roles & Permissions (Module-Level RBAC)
+
+**Roles:** Admin, Manager, Partner, Analyst/Viewer
+
+| Module / Functionality  | Admin                                          | Manager                                           | Partner                             | Analyst / Viewer           |
+| ----------------------- | ---------------------------------------------- | ------------------------------------------------- | ------------------------------------ | -------------------------- |
+| Authentication          | Login/Logout                                   | Login/Logout                                      | Login/Logout                         | Login/Logout               |
+| **User Management**     | Add/Edit/Delete users, assign roles            | ❌                                                 | ❌                                    | ❌                          |
+| **Partner Management** | Add/Edit/Delete Partners, regenerate QR/links | Add/Edit Partners                                | View own Partner details            | ❌                          |
+| **Lead Submission**     | Add/Edit/Delete any lead, manual form entry    | Add/Edit leads for assigned Partners             | Submit only their own leads via link | ❌                          |
+| **Lead View**           | View all leads                                 | View leads for assigned Partners                 | View own leads only                  | View all leads (read-only) |
+| **Lead Status Update**  | Change status (per hierarchy)                  | Change status (per hierarchy for assigned)        | ❌                                    | ❌                          |
+| **Form Configuration**  | Configure form fields (Grant/Equity)           | ❌                                                 | ❌                                    | ❌                          |
+| **Dashboard & Reports** | View all stats, export CSV/PDF                 | View stats for assigned Partners, export CSV/PDF | View own stats                       | View all stats (read-only) |
+| **Activity Logs**       | View all actions                               | View logs for assigned Partners                  | ❌                                    | ❌                          |
+
+> **Enforcement:** Both **UI gating** (hide/disable) and **API authorization guards** per route.
+
+---
+
+## 5) CSV Data Storage (Schemas)
+
+* **users.csv**
+  `userId,username,passwordHash,role,email,phone`
+* **Partners.csv**
+  `PartnerId,name,contactPerson,email,phone,companyDetails,type,equityLink,grantLink,qrEquity,qrGrant`
+* **leads.csv**
+  `leadId,createdOnDate,companyName,founderName,contact,email,serviceType,formDataJSON,lastStatus,lastStatusUpdatedDate,currentStatus,PartnerId,createdByUserId`
+* **status\_hierarchy.csv**
+  `statusId,statusName,nextStatuses,daysLimit,autoMoveTo`
+* **activity\_logs.csv**
+  `timestamp,userId,action,entity,entityId,details`
+
+> Implementation notes: store JSON strings in `formDataJSON`; use `;`-separated values for `nextStatuses` when needed.
+
+---
+
+## 6) Lead Status Hierarchy & Workflow
+
+**Initial:** `New Lead`
+
+**Transitions:**
+
+* New Lead → RNR (Ring No Response) → *after 6 days* → Reject – RNR
+* New Lead → Call Back → *after 6 days* → Reject – Not Attend
+* New Lead → Not Interested → Reject – Not Interested
+* New Lead → Interested → Screening
+* Screening → Reject – Screening Fail | Screening Pass → Proposal to be Sent
+* Proposal to be Sent → Proposal Sent
+* Proposal Sent → Not Interested → Reject – Not Interested (Proposal Sent)
+* Proposal Sent → Interested → Payment Link Sent
+* Payment Link Sent → Not Paid → Reject – Payment Not Done | Paid → To Apply
+* To Apply → Applied
+* Applied → Rejected → Final Reject | Approved → Approved
+
+**Rules:**
+
+* Only allowed transitions per hierarchy.
+* Auto status changes run daily; `daysLimit` + `autoMoveTo` in `status_hierarchy.csv`.
+* `lastStatusUpdatedDate` updated on every change.
+
+---
+
+## 7) Lead Submission Forms
+
+### A) Grant Lead Form
+
+**Company Information:** Website Link; Is Registered?; Trademark Registered; Address; DPIIT Registered?; Company Type; Startup Sector; Number of Founders; Linked Profile; Gender; Area; Women Entrepreneurs?; One Liner; Key Focus Area; LinkedIn Profile; Company Age.
+**Financial:** Last Year’s Revenue; Funding Requirement; Angel Investor Startup?; Debt Raise?
+**Meta:** Source; Source File; Last Status (dropdown); Last Status Updated Date (auto); Current Status (auto).
+
+### B) Equity Lead Form
+
+**Company & Founders:** Founders LinkedIn; Address; Company Name; Registration Type; Problem & Solution; Website; Key Team; Past Grants; Incubation/Accelerator; Industry; Business Stage; Certifications; Competitors; Last Year’s Revenue; Revenue Projections; Profitability; EBITDA; GMV; Margins; Expenses; Runway; Liabilities.
+**Funding Info:** Funding Amount; Purpose; Valuation; Equity Willingness; % Equity; CAC; LTV; NPS; Milestones; 3–5 Year Vision; Exit Strategy; Past Acquisition Interest; Funding Type.
+**Meta:** Source; Source File; Last Status (dropdown); Last Status Updated Date (auto); Current Status (auto).
+
+---
+
+## 8) Module Flow Summary
+
+* **Authentication:** Role-based login → redirect to permitted **Dashboard**.
+* **Partner Onboarding:** Admin/Manager register Partner → system generates **links + QR** (for Grant/Equity) → send via email.
+* **Lead Submission:** Partner opens link → **Grant/Equity form** → submit → append to `leads.csv` with `status = New Lead`.
+* **Lead Management:** Table with View/Edit/Delete/Change Status → transitions validated against hierarchy → automatic 6-day status moves.
+* **Dashboard:** Charts by status, Partner, type; filters; export CSV/PDF.
+* **Logs:** Every action appended to `activity_logs.csv`.
+
+---
+
+## 9) Default Dashboard (Post-Login)
+
+Widgets (role-aware data scope):
+
+1. **Totals**: Partners by Type (Grant/Equity/Both) + Total Leads.
+2. **Leads by Status**: Bar/Donut chart.
+3. **Leads by Partner**: Horizontal bar chart with top N.
+4. **Conversion Funnel**: New → Screening → Proposal Sent → Paid → Applied → Approved.
+5. **Recent Activity**: Last 10 actions from `activity_logs.csv`.
+
+Controls: global filters (date range, Partner, type, status), quick export **CSV/PDF**.
+
+---
+
+## 10) Replicate Prompts (Copy/Paste)
+
+### Prompt A — Page 1 (Welcome)
+
+> **Design a clean, minimal login entry page for the company “MyProBuddy” inspired by Zoho’s login page.**
+> **Branding:** White background; centered MyProBuddy logo (modern, colorful geometric style).
+> **Heading:** “Log in to access MyProBuddy.” (bold, black).
+> **Primary Action:** Large red **SIGN IN** button with rounded corners; hover = darker red.
+> **Link:** Below the button, small text: “Don’t have a MyProBuddy account? Sign Up Now” (blue link).
+> **Footer:** “© 2025, MyProBuddy Pvt. Ltd. All Rights Reserved.” centered in small gray text.
+> **Typography:** Inter/Open Sans; generous whitespace; minimalist.
+> **Output:** Responsive **React + TailwindCSS** code for this page.
+
+### Prompt B — Page 2 (Credentials)
+
+> **Create a Zoho-style credential entry page for “MyProBuddy.”**
+> **Layout:** Centered white card on subtle light background.
+> **Header:** Logo left; pill button right reading “Try smart sign-in ✨” (blue).
+> **Title/Subtext:** “Sign in” (bold), `to access MyProBuddy Home` (gray).
+> **Fields:** Email/Phone and Password; rounded, light gray borders; proper labels and placeholders.
+> **Button:** Large blue **Login** button; hover = darker blue.
+> **Accessibility:** aria-labels, keyboard focus.
+> **Output:** Responsive **React + TailwindCSS** component.
+
+### Prompt C — Full App (Post-Login + RBAC + CSV)
+
+> **Build a responsive CSV-backed web app named “MyProBuddy” with Zoho-like styling.**
+> **Modules:** Dashboard (default), User Management, Partner Management, Leads (forms + table), Reports/Exports, Activity Logs, Form Configuration.
+> **RBAC:** Roles Admin/Manager/Partner/Analyst exactly as table below; enforce on UI and API.
+> **Storage:** CSV files: users.csv, Partners.csv, leads.csv, status\_hierarchy.csv, activity\_logs.csv (schemas provided).
+> **Lead Workflow:** Implement transitions and 6-day auto-moves per hierarchy rules.
+> **Dashboard:** Charts (status, Partner, type, funnel) with filters and CSV/PDF export.
+> **Partner Module:** Add/Edit/Delete; generate unique **Grant/Equity links** and **QR codes** for submission; store in CSV.
+> **Lead Forms:** Grant and Equity with fields exactly as specified.
+> **Output:** React + Tailwind frontend; Node/Express API for CSV read/write and auth; sample data and routes; ready-to-run project.
+
+---
+
+## 11) File/Folder Blueprint (Suggested)
+
+```
+myprobuddy/
+  frontend/
+    src/
+      pages/
+        Welcome.tsx
+        Login.tsx
+        Dashboard.tsx
+        Partners.tsx
+        Leads.tsx
+        Reports.tsx
+        Logs.tsx
+        Config.tsx
+      components/
+        Navbar.tsx
+        Sidebar.tsx
+        Card.tsx
+        Charts/*
+        Forms/
+          GrantForm.tsx
+          EquityForm.tsx
+      utils/auth.ts
+      routes/ProtectedRoute.tsx
+  backend/
+    src/
+      index.ts
+      auth/
+        routes.ts (login/logout, session)
+        guard.ts (role checks)
+      Partners/
+        routes.ts (CRUD, link+QR gen)
+      leads/
+        routes.ts (CRUD, status transitions)
+        statusEngine.ts (auto-advance daily)
+      reports/
+        routes.ts (CSV/PDF export)
+      logs/
+        routes.ts
+      csv/
+        csvService.ts (read/write lock, schema validation)
+      config/
+        paths.ts (CSV file locations)
+    data/
+```
